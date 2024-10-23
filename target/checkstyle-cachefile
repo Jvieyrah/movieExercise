@@ -1,0 +1,14 @@
+#Tue Jan 02 20:15:34 BRT 2024
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/database/FakeFitnessDatabase.java=1704136967288
+configuration*?=CBF1E30199C8FBF0321A3A1D912A0E8C0A48B79E
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/FitnessApplication.java=1704136967288
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/service/FitnessService.java=1704236864900
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/controller/FitnessController.java=1704237149486
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/model/Workout.java=1704136967288
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/dto/WorkoutDto.java=1704148826162
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/database/WorkoutsLoader.java=1704136967288
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/service/FitnessServiceInterface.java=1704152147623
+module-resource*?\:checkstyle-xpath-suppressions.xml=AD01BB0FD0335E9EFAA283A1F090D92C550A6259
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/dto/WorkoutCreationDto.java=1704148826178
+module-resource*?\:checkstyle-suppressions.xml=9387D6488AF5A1790EE7151483551A6DF3B67BBE
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/controller/FitnessControllerInterface.java=1704149748842

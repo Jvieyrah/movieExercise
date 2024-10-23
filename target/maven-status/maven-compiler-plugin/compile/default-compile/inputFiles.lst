@@ -1,0 +1,10 @@
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/service/FitnessServiceInterface.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/FitnessApplication.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/database/WorkoutsLoader.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/database/FakeFitnessDatabase.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/model/Workout.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/dto/WorkoutDto.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/controller/FitnessController.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/dto/WorkoutCreationDto.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/service/FitnessService.java
+/home/joao/Documents/trybe/java/java-001-exercicio-fitness-api/src/main/java/com/betrybe/fitness/controller/FitnessControllerInterface.java
